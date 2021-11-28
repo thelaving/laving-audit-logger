@@ -1,0 +1,15 @@
+{
+  "name": "laving-logger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "laving.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "laving",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2"
+  }
+}
