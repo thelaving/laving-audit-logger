@@ -13,7 +13,7 @@
 # Hangi İntentler Eksik, Sana Nasıl Ulaşabilirim?
 
 - Thread ve emoji güncelleme intentleri eksik, onun haricinde sorun yok. Unutmayın ki bu projede sadece guard botun koruduğu şeyleri logladım. Ayrıca guardlar gibi her log mesajını size özelden de atıyor! Eğer sunucunuzda guard yoksa da bu botla halledebilirsiniz. Eğer hiçbir bilginiz yok ise discorddan ulaşıp destek alabilirsiniz. Boş muhabbetler için lütfen rahatsız etmeyin. Teşekkürler!
-- İllaki hatalarla karşılaşabilirsiniz, çok sorun olursa Laving#1981 ekleyip yazabilirsiniz.
+- İllaki hatalarla karşılaşabilirsiniz, çok sorun olursa lavingxd ekleyip yazabilirsiniz.
 
 # Görseller;
 
